@@ -1,0 +1,7 @@
+baseURL = "https://wiki.journeytotheit.ovh"
+languageCode = "fr-fr"
+title = "Wiki Série-All"
+theme = "docdock"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
