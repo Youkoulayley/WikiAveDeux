@@ -1,35 +1,21 @@
 [
 {
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/",
+	"title": "Acteurs",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/bug/",
+	"title": "Bug",
+	"tags": [],
+	"description": "",
+	"content": "\u0026ldquo;J\u0026rsquo;ai un bug, qu\u0026rsquo;est-ce que je fais ?\u0026rdquo;\nAlors c\u0026rsquo;est simple, sur le sujet de la bêta en cours, tu répètes à Youk tout ce que tu as fait pour arriver au bug et à peu près l\u0026rsquo;heure à laquelle tu l\u0026rsquo;as fait. Lui il va se débrouiller pour retrouver ce que tu as fait et le corriger le plus rapidement possible.\nC\u0026rsquo;est tout.\n"
+},
+{
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/new_show_manually/",
 	"title": "Nouvelle série manuelle",
-	"tags": [],
-	"description": "",
-	"content": "Test\n"
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/gestion-series/",
-	"title": "Gestion des séries",
-	"tags": [],
-	"description": "",
-	"content": "Gestion des séries, saisons, épisodes et acteurs/actrices.\n"
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/tips/",
-	"title": "Tips",
-	"tags": [],
-	"description": "",
-	"content": "Quelques codes de triche, parce que je suis sympa.\n"
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/new_show_tvdb/",
-	"title": "Nouvelle série via TheTVDB",
-	"tags": [],
-	"description": "",
-	"content": " Tout d\u0026rsquo;abord, dans l\u0026rsquo;administation des séries, cliquez sur le bouton \u0026ldquo;Ajouter une nouvelle série\u0026rdquo; et choisissez \u0026ldquo;Création via the TVDB\u0026rdquo; : Vous arriverez sur le formulaire de création.\nInformations générales Dans la première partie du formulaire, il faut remplir les informations générales sur la série :  ID de la série sur TheTVDB : Cherchez la série sur TheTVDB et récupérez l\u0026rsquo;ID comme ici :  Nationalités : Dans cette case, vous pouvez ajouter plusieurs nationalités. Vous pouvez trouvez des informations sur comment ajouter plusieurs enregistrements dans un champ liste ici.\n Créateur(s) de la série : Comme pour les nationalités, vous pouvez ajouter plusieurs créateurs ici. Lien du tips : ici.\n  Informations sur la diffusion française La seconde partie du formulaire est consacrée à la diffusion française.  Chaine française : Comme son nom l\u0026rsquo;indique, on peut ajouter des chaînes supplémentaires dans ce champ. Par exemple, Better Call Saul est diffusée à la fois sur AMC et sur Netflix. La chaine principale étant AMC, c\u0026rsquo;est celle-ci qui sera renseignée depuis TheTVDB (TheTVDB ne gère qu\u0026rsquo;une seule chaine par série). Mais sur Série-All, parce que c\u0026rsquo;est mieux que TheTVDB, vous pouvez ajouter Netflix via ce champ. Imaginons qu\u0026rsquo;en plus de ça, M6 récupère les droits de diffusion de Better Call Saul, vous pourriez également ajouter cette dernière dans ce champ. Lien du tips : ici.\n Date de la diffusion française : Entrez une date au format jj/mm/aaaa, ou en cliquant sur le champ, vous aurez une fenêtre qui vous permet de choisir graphiquement la date : .\n  Informations pour la rentrée Cette partie spéciale chinois permet de renseigner les informations sur la rentrée.  Taux érectile : Indiquez le pourcentage d\u0026rsquo;érectilité.\n Avis de la rédaction : Renseignez l\u0026rsquo;avis (ultra-détaillé) de la rédaction.\n  FIN Pour finir, vous pouvez cliquer sur le magnifique bouton vert : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre ajout de série. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre série est ajoutée ! :)\n"
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/tips/logs/",
-	"title": "Logs",
 	"tags": [],
 	"description": "",
 	"content": "Test\n"
@@ -39,7 +25,49 @@
 	"title": "Champs liste",
 	"tags": [],
 	"description": "",
-	"content": "Test\n"
+	"content": " Le champ liste peut avoir plusieurs formes sur Série-All : * On ne peut choisir qu\u0026rsquo;un seul enregistrement ; * On peut choisir plusieurs enregistrements.\nUn seul enregistrement Ce cas est présent lors de la création d\u0026rsquo;un nouvel acteur par exemple.\nVous avez plusieurs options qui s\u0026rsquo;offrent à vous : * Soit l\u0026rsquo;enregistrement est déjà présent dans la base de données et vous n\u0026rsquo;avez qu\u0026rsquo;à le trouver dans la liste ; * Soit l\u0026rsquo;enreigstrement n\u0026rsquo;existe pas dans la base de données et il faut alors le créer.\nL\u0026rsquo;enregistrement existe Deux options s\u0026rsquo;offrent à vous : * Soit vous cliquez sur la flèche à droite du champ : La liste complète de tous les enregistrements de cette catégorie sur Série-All va alors se dérouler. Autant dire que pour la Bêta, ça devrait aller, mais plus tard ça va vite devenir ingérable. Préférez donc la deuxième option.\n Soit vous commencez à taper le nom de l\u0026rsquo;enregistrement et au bout de 2 lettres, la liste des enregistrements filtrés va alors s\u0026rsquo;afficher. Lorsque vous le voyez, vous pouvez sélectionner l\u0026rsquo;enregistrement que vous désirez.  L\u0026rsquo;enregistrement n\u0026rsquo;existe pas Si l\u0026rsquo;enregistrement n\u0026rsquo;existe pas, tapez alors simplement son nom. Lors de la validation, ce dernier sera ajouté à la base de données.\nPlusieurs enregistrements Ce cas est beaucoup plus présent sur la nouvelle version de Série-All, comme avec les nationalités, les chaînes etc.\nVous avez plusieurs options qui s\u0026rsquo;offrent à vous : * Soit l\u0026rsquo;enregistrement est déjà présent dans la base de données et vous n\u0026rsquo;avez qu\u0026rsquo;à le trouver dans la liste ; * Soit l\u0026rsquo;enregistrement n\u0026rsquo;existe pas dans la base de données et il faut alors le créer.\nL\u0026rsquo;enregistrement existe Comme pour les champs liste à un seul enregistrement, les deux options suivantes s\u0026rsquo;offrent à vous : * Cliquer sur la flèche pour afficher toute la liste des enregistrements ; * Commencer à taper le nom de l\u0026rsquo;enregistrement et le sélectionner lorsque vous le voyez.\nL\u0026rsquo;enregistrement passe alors dans un rectangle, cela signifie qu\u0026rsquo;il a été sélectionné.\nL\u0026rsquo;enregistrement n\u0026rsquo;existe pas Si l\u0026rsquo;enregistrement que vous voulez n\u0026rsquo;existe pas, tapez son nom, puis appuyez sur la touche \u0026ldquo;virgule\u0026rdquo; (,). Il devrait alors passer dans un rectangle gris. Cela signifie que l\u0026rsquo;enregistrement sera créé lors de la validation. Vous pouvez ensuite continuer à ajouter de nouveaux champs.\n"
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/episodes/",
+	"title": "Episodes",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/tips/logs/",
+	"title": "Logs",
+	"tags": [],
+	"description": "",
+	"content": " \u0026ldquo;Mais qu\u0026rsquo;est-ce qu\u0026rsquo;un log ?\u0026rdquo;\nUn log est un fichier qui regroupe les différentes actions effectuées par une action. Par exemple, lorsque vous créez une série ou modifiez un acteur, un fichier de log est créé.\nIl y a deux façons d\u0026rsquo;accéder aux logs de Série-All : * Sur la page d\u0026rsquo;accueil de l\u0026rsquo;administration ; * Dans l\u0026rsquo;onglet \u0026ldquo;Système\u0026rdquo; de l\u0026rsquo;administration.\nPage d\u0026rsquo;accueil Lorsque vous arrivez sur la page d\u0026rsquo;accueil, vous pouvez voir cet écran : Il n\u0026rsquo;est pas pour l\u0026rsquo;instant pas très complet, mais le deviendra au fur et à mesure des évolutions. Vous pouvez donc voir ici la liste des 10 derniers fichiers de logs présent. Si le votre est plus ancien que ceux-là, il faut aller dans l\u0026rsquo;onglet \u0026ldquo;Système\u0026rdquo;.\nVous avez ici accès à plusieurs informations d\u0026rsquo;un simple coup d\u0026rsquo;oeil : * Le nom de l\u0026rsquo;action effectuée ; * Le type d\u0026rsquo;objet modifié ; * L\u0026rsquo;ID de l\u0026rsquo;objet (utile surtout pour les administrateurs) ; * L\u0026rsquo;utilisateur qui a lancé l\u0026rsquo;action ; * La date de départ.\nEn cliquant sur le nom de l\u0026rsquo;action, vous aurez accès au détail : Onglet Système En cliquant sur l\u0026rsquo;onglet Système, vous arriverez sur cette page : La seule option disponible pour l\u0026rsquo;instant est le système de logs. En cliquant sur le carré, vous accéderez à tous les logs des 7 derniers jours. Les suivants seront supprimés automatiquement. "
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/",
+	"title": "Gestion des séries",
+	"tags": [],
+	"description": "",
+	"content": "Gestion des séries, saisons, épisodes et acteurs/actrices.\n"
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/new_show_tvdb/",
+	"title": "Nouvelle série via TheTVDB",
+	"tags": [],
+	"description": "",
+	"content": " Tout d\u0026rsquo;abord, dans l\u0026rsquo;administation des séries, cliquez sur le bouton \u0026ldquo;Ajouter une nouvelle série\u0026rdquo; et choisissez \u0026ldquo;Création via the TVDB\u0026rdquo; : Vous arriverez sur le formulaire de création.\nInformations générales Dans la première partie du formulaire, il faut remplir les informations générales sur la série :  ID de la série sur TheTVDB : Cherchez la série sur TheTVDB et récupérez l\u0026rsquo;ID comme ici :  Nationalités : Dans cette case, vous pouvez ajouter plusieurs nationalités. Vous pouvez trouvez des informations sur comment ajouter plusieurs enregistrements dans un champ liste ici.\n Créateur(s) de la série : Comme pour les nationalités, vous pouvez ajouter plusieurs créateurs ici. Lien du tips : ici.\n  Informations sur la diffusion française La seconde partie du formulaire est consacrée à la diffusion française.  Chaine française : Comme son nom l\u0026rsquo;indique, on peut ajouter des chaînes supplémentaires dans ce champ. Par exemple, Better Call Saul est diffusée à la fois sur AMC et sur Netflix. La chaine principale étant AMC, c\u0026rsquo;est celle-ci qui sera renseignée depuis TheTVDB (TheTVDB ne gère qu\u0026rsquo;une seule chaine par série). Mais sur Série-All, parce que c\u0026rsquo;est mieux que TheTVDB, vous pouvez ajouter Netflix via ce champ. Imaginons qu\u0026rsquo;en plus de ça, M6 récupère les droits de diffusion de Better Call Saul, vous pourriez également ajouter cette dernière dans ce champ. Lien du tips : ici.\n Date de la diffusion française : Entrez une date au format jj/mm/aaaa, ou en cliquant sur le champ, vous aurez une fenêtre qui vous permet de choisir graphiquement la date : .\n  Informations pour la rentrée Cette partie spéciale chinois permet de renseigner les informations sur la rentrée.  Taux érectile : Indiquez le pourcentage d\u0026rsquo;érectilité.\n Avis de la rédaction : Renseignez l\u0026rsquo;avis (ultra-détaillé) de la rédaction.\n  FIN Pour finir, vous pouvez cliquer sur le magnifique bouton vert : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre ajout de série. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre série est ajoutée ! :)\n"
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/",
+	"title": "Saisons",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/tips/",
+	"title": "Tips",
+	"tags": [],
+	"description": "",
+	"content": "Quelques codes de triche, parce que je suis sympa.\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/",

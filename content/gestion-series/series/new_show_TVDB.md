@@ -45,3 +45,5 @@ En validant, vous aurez un message de ce type :
 Vous pouvez consulter les logs pour avoir plus d'informations sur votre ajout de série. Lien du tips pour les logs : [ici](/tips/logs).
 
 Et après un temps d'attente, votre série est ajoutée ! :)
+
+![Ninja](https://media.giphy.com/media/26h0oZIGGOFZdZj4Q/giphy.gif)

@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/</loc>
+    <lastmod>2017-07-19T00:36:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/bug/</loc>
+    <lastmod>2017-07-18T23:51:42+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_manually/</loc>
     <lastmod>2017-07-18T17:14:23+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wiki.journeytotheit.ovh/gestion-series/</loc>
-    <lastmod>2017-07-18T15:32:59+02:00</lastmod>
+    <loc>https://wiki.journeytotheit.ovh/tips/dropdown/</loc>
+    <lastmod>2017-07-18T16:46:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wiki.journeytotheit.ovh/tips/</loc>
-    <lastmod>2017-07-18T16:46:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_tvdb/</loc>
-    <lastmod>2017-07-18T15:27:43+02:00</lastmod>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/episodes/</loc>
+    <lastmod>2017-07-19T00:36:16+02:00</lastmod>
   </url>
   
   <url>
@@ -28,8 +33,23 @@
   </url>
   
   <url>
-    <loc>https://wiki.journeytotheit.ovh/tips/dropdown/</loc>
-    <lastmod>2017-07-18T16:46:29+02:00</lastmod>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/</loc>
+    <lastmod>2017-07-18T15:32:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_tvdb/</loc>
+    <lastmod>2017-07-18T15:27:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/seasons/</loc>
+    <lastmod>2017-07-19T00:36:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/tips/</loc>
+    <lastmod>2017-07-18T16:46:34+02:00</lastmod>
   </url>
   
   <url>
