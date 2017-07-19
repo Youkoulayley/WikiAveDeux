@@ -16,6 +16,7 @@ Vous arriverez sur le formulaire d'édition :
 Les deux boutons du haut permettent de passer respectivement sur la gestion des acteurs de la série et sur la gestion des saisons/épisodes. Voir les sujets appropriés pour leur utilisation.
 
 Vous pouvez ici modifier tous les champs qui caractérisent une série :
+
 * **Nom original de la série** : Le nom de la série dans son pays d'origine ;
 * **Nom français de la série** : Le nom qu'on lui a donné en France (mention spéciale pour les titres ridicules) ;
 * **Résumé original** : Un résumé en anglais ou dans la langue d'origine de la séries ;
