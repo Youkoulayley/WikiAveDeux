@@ -17,7 +17,8 @@
       <pubDate>Wed, 19 Jul 2017 19:53:00 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/series/update_show_manuallly/</guid>
-      <description></description>
+      <description>/!\ Les modifications manuelles appportées à une série ajoutées via TheTVDB pourraient être supprimées lors de la mise à jour quotidienne des séries.
+Pour mettre à jour une série, rendez-vous dans la page d&amp;rsquo;accueil de gestion des séries et cliquez sur le nom de la série que vous voulez éditer : Vous arriverez sur le formulaire d&amp;rsquo;édition : Les deux boutons du haut permettent de passer respectivement sur la gestion des acteurs de la série et sur la gestion des saisons/épisodes.</description>
     </item>
     
     <item>
@@ -48,7 +49,8 @@ Vous avez plusieurs options qui s&amp;rsquo;offrent à vous : * Soit l&amp;rsquo
       <pubDate>Wed, 19 Jul 2017 19:53:05 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/series/update_show_tvdb/</guid>
-      <description></description>
+      <description>La mise à jour des séries ajoutées via TheTVDB est automatique. La tâche tourne tous les soirs à minuit et regarde les séries sur TheTVDB qui ont été modifiées depuis la dernière mise à jour. Si une série a été modifiée, on parcourt toutes les informations et on met à jour dans la base de données de Série-All toutes les informations qui ont été modifiées et qui nous intéresse.
+Vous pouvez suivre les logs (Tips ici) de la mise à jour via TheTVDB dans l&amp;rsquo;interface de gestion des logs : Les mises à jour sont lancées par l&amp;rsquo;utilisateur &amp;ldquo;System&amp;rdquo;.</description>
     </item>
     
     <item>
