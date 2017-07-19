@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/create_actor/",
+	"title": "Créer un nouvel acteur",
+	"tags": [],
+	"description": "",
+	"content": "Pour créer un nouvel acteur à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Vous arriverez sur une page de ce genre : Cliquez sur \u0026ldquo;Ajouter de nouveaux acteurs\u0026rdquo; : En cliquant sur le bouton \u0026ldquo;Ajouter un acteur\u0026rdquo;, un bloc de ce genre devrait apparaitre :  Photo de l\u0026rsquo;acteur : Vous pouvez uploader une photo pour l\u0026rsquo;acteur que vous voulez. Un format portrait est conseillé ; Nom de l\u0026rsquo;acteur : Indiquez le nom de l\u0026rsquo;acteur (Tip pour les champs listes Ici) ; Rôle de l\u0026rsquo;acteur : Indiquez le rôle de l\u0026rsquo;acteur dans la série.  Vous pouvez ajouter autant de blocs acteurs que vous le voulez.\nUne fois vos acteurs ajoutés, vous pouvez cliquer sur : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre ajout d\u0026rsquo;acteurs. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, vos acteurs sont ajoutés ! :)\n"
+},
+{
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/update_show_manuallly/",
 	"title": "Mettre à jour une série manuellement",
 	"tags": [],
@@ -35,6 +42,13 @@
 	"content": "Gestion des séries, saisons, épisodes et acteurs/actrices.\n"
 },
 {
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/update_actor/",
+	"title": "Mettre à jour un acteur",
+	"tags": [],
+	"description": "",
+	"content": "Pour mettre à jour un acteur d\u0026rsquo;une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration. Cliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur \u0026ldquo;Editer\u0026rdquo; : Vous arriverez sur le formulaire d\u0026rsquo;édition de l\u0026rsquo;acteur : Vous pouvez alors :\n Photo de l\u0026rsquo;acteur : Uploader une nouvelle photo pour l\u0026rsquo;acteur ; Rôle : Modifier le rôle de l\u0026rsquo;acteur pour cette série.  \u0026ldquo;Pourquoi je peux pas modifier le nom de l\u0026rsquo;acteur ?\u0026rdquo; Parce que si tu veux changer d\u0026rsquo;acteur, ou que tu t\u0026rsquo;es trompé, tu supprimes cette acteur (il ne sera supprimé que pour cette série, don\u0026rsquo;t worry) et tu en crée un autre.\nUne fois toutes vos modifications effectuées : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre modification d\u0026rsquo;acteur. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre acteur est modifié ! :)\n"
+},
+{
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/update_show_tvdb/",
 	"title": "Mettre à jour une série via TheTVDB",
 	"tags": [],
@@ -61,6 +75,13 @@
 	"tags": [],
 	"description": "",
 	"content": " \u0026ldquo;Mais qu\u0026rsquo;est-ce qu\u0026rsquo;un log ?\u0026rdquo;\nUn log est un fichier qui regroupe les différentes actions effectuées par une action. Par exemple, lorsque vous créez une série ou modifiez un acteur, un fichier de log est créé.\nIl y a deux façons d\u0026rsquo;accéder aux logs de Série-All : * Sur la page d\u0026rsquo;accueil de l\u0026rsquo;administration ; * Dans l\u0026rsquo;onglet \u0026ldquo;Système\u0026rdquo; de l\u0026rsquo;administration.\nPage d\u0026rsquo;accueil Lorsque vous arrivez sur la page d\u0026rsquo;accueil, vous pouvez voir cet écran : Il n\u0026rsquo;est pas pour l\u0026rsquo;instant pas très complet, mais le deviendra au fur et à mesure des évolutions. Vous pouvez donc voir ici la liste des 10 derniers fichiers de logs présent. Si le votre est plus ancien que ceux-là, il faut aller dans l\u0026rsquo;onglet \u0026ldquo;Système\u0026rdquo;.\nVous avez ici accès à plusieurs informations d\u0026rsquo;un simple coup d\u0026rsquo;oeil : * Le nom de l\u0026rsquo;action effectuée ; * Le type d\u0026rsquo;objet modifié ; * L\u0026rsquo;ID de l\u0026rsquo;objet (utile surtout pour les administrateurs) ; * L\u0026rsquo;utilisateur qui a lancé l\u0026rsquo;action ; * La date de départ.\nEn cliquant sur le nom de l\u0026rsquo;action, vous aurez accès au détail : Onglet Système En cliquant sur l\u0026rsquo;onglet Système, vous arriverez sur cette page : La seule option disponible pour l\u0026rsquo;instant est le système de logs. En cliquant sur le carré, vous accéderez à tous les logs des 7 derniers jours. Les suivants seront supprimés automatiquement. "
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/delete_actor/",
+	"title": "Supprimer un acteur",
+	"tags": [],
+	"description": "",
+	"content": "Pour supprimer un acteur à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Pour supprimer un acteur, survolez sa photo et cliquez sur \u0026ldquo;Supprimer\u0026rdquo; : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre suppression d\u0026rsquo;acteur. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, vos acteurs sont supprimés ! :)\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/",

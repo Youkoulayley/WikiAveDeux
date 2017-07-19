@@ -1,7 +1,7 @@
 ---
 title: "Supprimer un acteur"
 date: 2017-07-19T23:41:13+02:00
-draft: true
+draft: false
 weight: 3
 ---
 

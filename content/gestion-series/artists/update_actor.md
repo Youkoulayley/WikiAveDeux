@@ -1,7 +1,7 @@
 ---
 title: "Mettre à jour un acteur"
 date: 2017-07-19T23:40:59+02:00
-draft: true
+draft: false
 weight: 2
 ---
 

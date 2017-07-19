@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Créer un nouvel acteur</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/create_actor/</link>
+      <pubDate>Wed, 19 Jul 2017 23:41:05 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/create_actor/</guid>
+      <description>Pour créer un nouvel acteur à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
+Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Vous arriverez sur une page de ce genre : Cliquez sur &amp;ldquo;Ajouter de nouveaux acteurs&amp;rdquo; : En cliquant sur le bouton &amp;ldquo;Ajouter un acteur&amp;rdquo;, un bloc de ce genre devrait apparaitre :  Photo de l&amp;rsquo;acteur : Vous pouvez uploader une photo pour l&amp;rsquo;acteur que vous voulez.</description>
+    </item>
+    
+    <item>
       <title>Mettre à jour une série manuellement</title>
       <link>https://wiki.journeytotheit.ovh/gestion-series/series/update_show_manuallly/</link>
       <pubDate>Wed, 19 Jul 2017 19:53:00 +0200</pubDate>
@@ -44,6 +54,16 @@ Vous avez plusieurs options qui s&amp;rsquo;offrent à vous : * Soit l&amp;rsquo
     </item>
     
     <item>
+      <title>Mettre à jour un acteur</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/update_actor/</link>
+      <pubDate>Wed, 19 Jul 2017 23:40:59 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/update_actor/</guid>
+      <description>Pour mettre à jour un acteur d&amp;rsquo;une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration. Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur &amp;ldquo;Editer&amp;rdquo; : Vous arriverez sur le formulaire d&amp;rsquo;édition de l&amp;rsquo;acteur : Vous pouvez alors :
+ Photo de l&amp;rsquo;acteur : Uploader une nouvelle photo pour l&amp;rsquo;acteur ; Rôle : Modifier le rôle de l&amp;rsquo;acteur pour cette série.</description>
+    </item>
+    
+    <item>
       <title>Mettre à jour une série via TheTVDB</title>
       <link>https://wiki.journeytotheit.ovh/gestion-series/series/update_show_tvdb/</link>
       <pubDate>Wed, 19 Jul 2017 19:53:05 +0200</pubDate>
@@ -63,6 +83,16 @@ Vous pouvez suivre les logs (Tips ici) de la mise à jour via TheTVDB dans l&amp
 Un log est un fichier qui regroupe les différentes actions effectuées par une action. Par exemple, lorsque vous créez une série ou modifiez un acteur, un fichier de log est créé.
 Il y a deux façons d&amp;rsquo;accéder aux logs de Série-All : * Sur la page d&amp;rsquo;accueil de l&amp;rsquo;administration ; * Dans l&amp;rsquo;onglet &amp;ldquo;Système&amp;rdquo; de l&amp;rsquo;administration.
 Page d&amp;rsquo;accueil Lorsque vous arrivez sur la page d&amp;rsquo;accueil, vous pouvez voir cet écran : Il n&amp;rsquo;est pas pour l&amp;rsquo;instant pas très complet, mais le deviendra au fur et à mesure des évolutions.</description>
+    </item>
+    
+    <item>
+      <title>Supprimer un acteur</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/delete_actor/</link>
+      <pubDate>Wed, 19 Jul 2017 23:41:13 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/delete_actor/</guid>
+      <description>Pour supprimer un acteur à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
+Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Pour supprimer un acteur, survolez sa photo et cliquez sur &amp;ldquo;Supprimer&amp;rdquo; : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d&amp;rsquo;informations sur votre suppression d&amp;rsquo;acteur.</description>
     </item>
     
     <item>

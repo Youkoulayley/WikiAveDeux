@@ -1,7 +1,7 @@
 ---
 title: "Créer un nouvel acteur"
 date: 2017-07-19T23:41:05+02:00
-draft: true
+draft: false
 weight: 1
 ---
 
