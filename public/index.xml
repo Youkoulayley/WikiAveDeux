@@ -12,11 +12,65 @@
     
     
     <item>
-      <title>Créer un nouvel acteur</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/create_actor/</link>
+      <title>Mettre à jour un épisode</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</link>
+      <pubDate>Thu, 20 Jul 2017 00:07:33 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supprimer un épisode</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</link>
+      <pubDate>Thu, 20 Jul 2017 00:07:22 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ajouter de nouveaux épisodes</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/create/</link>
+      <pubDate>Thu, 20 Jul 2017 00:07:17 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supprimer une saison</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</link>
+      <pubDate>Thu, 20 Jul 2017 00:06:23 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mettre à jour une saison</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</link>
+      <pubDate>Thu, 20 Jul 2017 00:06:19 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ajouter de nouvelles saisons</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/create/</link>
+      <pubDate>Thu, 20 Jul 2017 00:06:16 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ajouter de nouveaux acteurs</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/create/</link>
       <pubDate>Wed, 19 Jul 2017 23:41:05 +0200</pubDate>
       
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/create_actor/</guid>
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/create/</guid>
       <description>Pour créer un nouvel acteur à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
 Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Vous arriverez sur une page de ce genre : Cliquez sur &amp;ldquo;Ajouter de nouveaux acteurs&amp;rdquo; : En cliquant sur le bouton &amp;ldquo;Ajouter un acteur&amp;rdquo;, un bloc de ce genre devrait apparaitre :  Photo de l&amp;rsquo;acteur : Vous pouvez uploader une photo pour l&amp;rsquo;acteur que vous voulez.</description>
     </item>
@@ -55,10 +109,10 @@ Vous avez plusieurs options qui s&amp;rsquo;offrent à vous : * Soit l&amp;rsquo
     
     <item>
       <title>Mettre à jour un acteur</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/update_actor/</link>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/update/</link>
       <pubDate>Wed, 19 Jul 2017 23:40:59 +0200</pubDate>
       
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/update_actor/</guid>
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/update/</guid>
       <description>Pour mettre à jour un acteur d&amp;rsquo;une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration. Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur &amp;ldquo;Editer&amp;rdquo; : Vous arriverez sur le formulaire d&amp;rsquo;édition de l&amp;rsquo;acteur : Vous pouvez alors :
  Photo de l&amp;rsquo;acteur : Uploader une nouvelle photo pour l&amp;rsquo;acteur ; Rôle : Modifier le rôle de l&amp;rsquo;acteur pour cette série.</description>
     </item>
@@ -87,10 +141,10 @@ Page d&amp;rsquo;accueil Lorsque vous arrivez sur la page d&amp;rsquo;accueil, v
     
     <item>
       <title>Supprimer un acteur</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/delete_actor/</link>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/artists/delete/</link>
       <pubDate>Wed, 19 Jul 2017 23:41:13 +0200</pubDate>
       
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/delete_actor/</guid>
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/delete/</guid>
       <description>Pour supprimer un acteur à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
 Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Pour supprimer un acteur, survolez sa photo et cliquez sur &amp;ldquo;Supprimer&amp;rdquo; : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d&amp;rsquo;informations sur votre suppression d&amp;rsquo;acteur.</description>
     </item>

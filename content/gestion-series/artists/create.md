@@ -1,5 +1,5 @@
 ---
-title: "Créer un nouvel acteur"
+title: "Ajouter de nouveaux acteurs"
 date: 2017-07-19T23:41:05+02:00
 draft: false
 weight: 1

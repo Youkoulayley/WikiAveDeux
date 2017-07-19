@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/create_actor/</loc>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</loc>
+    <lastmod>2017-07-20T00:07:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</loc>
+    <lastmod>2017-07-20T00:07:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/episodes/create/</loc>
+    <lastmod>2017-07-20T00:07:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</loc>
+    <lastmod>2017-07-20T00:06:23+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</loc>
+    <lastmod>2017-07-20T00:06:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/seasons/create/</loc>
+    <lastmod>2017-07-20T00:06:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/create/</loc>
     <lastmod>2017-07-19T23:41:05+02:00</lastmod>
   </url>
   
@@ -33,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/update_actor/</loc>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/update/</loc>
     <lastmod>2017-07-19T23:40:59+02:00</lastmod>
   </url>
   
@@ -58,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/delete_actor/</loc>
+    <loc>https://wiki.journeytotheit.ovh/gestion-series/artists/delete/</loc>
     <lastmod>2017-07-19T23:41:13+02:00</lastmod>
   </url>
   
