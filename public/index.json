@@ -7,7 +7,7 @@
 	"content": ""
 },
 {
-	"uri": "https://wiki.journeytotheit.ovh/find-errors/quefaisje/",
+	"uri": "https://wiki.journeytotheit.ovh/bugs/quefaisje/",
 	"title": "Que fais-je ?",
 	"tags": [],
 	"description": "",
@@ -49,8 +49,8 @@
 	"content": "La gestion des épisodes.\n"
 },
 {
-	"uri": "https://wiki.journeytotheit.ovh/find-errors/",
-	"title": "Remonter un bug",
+	"uri": "https://wiki.journeytotheit.ovh/bugs/",
+	"title": "Bugs",
 	"tags": [],
 	"description": "",
 	"content": "La remontée de bugs, comment ça marche ?\n"
@@ -105,7 +105,7 @@
 	"content": " Tout d\u0026rsquo;abord, dans l\u0026rsquo;administation des séries, cliquez sur le bouton \u0026ldquo;Ajouter une nouvelle série\u0026rdquo; et choisissez \u0026ldquo;Création via the TVDB\u0026rdquo; : Vous arriverez sur le formulaire de création.\nInformations générales Dans la première partie du formulaire, il faut remplir les informations générales sur la série :  ID de la série sur TheTVDB : Cherchez la série sur TheTVDB et récupérez l\u0026rsquo;ID comme ici :  Nationalités : Dans cette case, vous pouvez ajouter plusieurs nationalités. Vous pouvez trouvez des informations sur comment ajouter plusieurs enregistrements dans un champ liste ici.\n Créateur(s) de la série : Comme pour les nationalités, vous pouvez ajouter plusieurs créateurs ici. Lien du tips : ici.\n  Informations sur la diffusion française La seconde partie du formulaire est consacrée à la diffusion française.  Chaine française : Comme son nom l\u0026rsquo;indique, on peut ajouter des chaînes supplémentaires dans ce champ. Par exemple, Better Call Saul est diffusée à la fois sur AMC et sur Netflix. La chaine principale étant AMC, c\u0026rsquo;est celle-ci qui sera renseignée depuis TheTVDB (TheTVDB ne gère qu\u0026rsquo;une seule chaine par série). Mais sur Série-All, parce que c\u0026rsquo;est mieux que TheTVDB, vous pouvez ajouter Netflix via ce champ. Imaginons qu\u0026rsquo;en plus de ça, M6 récupère les droits de diffusion de Better Call Saul, vous pourriez également ajouter cette dernière dans ce champ. Lien du tips : ici.\n Date de la diffusion française : Entrez une date au format jj/mm/aaaa, ou en cliquant sur le champ, vous aurez une fenêtre qui vous permet de choisir graphiquement la date : .\n  Informations pour la rentrée Cette partie spéciale chinois permet de renseigner les informations sur la rentrée.  Taux érectile : Indiquez le pourcentage d\u0026rsquo;érectilité.\n Avis de la rédaction : Renseignez l\u0026rsquo;avis (ultra-détaillé) de la rédaction.\n  FIN Pour finir, vous pouvez cliquer sur le magnifique bouton vert : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre ajout de série. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre série est ajoutée ! :)\n"
 },
 {
-	"uri": "https://wiki.journeytotheit.ovh/find-errors/test/",
+	"uri": "https://wiki.journeytotheit.ovh/bugs/test/",
 	"title": "Test",
 	"tags": [],
 	"description": "",
