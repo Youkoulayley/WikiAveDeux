@@ -11,13 +11,15 @@ Vous arriverez sur le formulaire de création.
 
 ## Informations sur la série
 Dans la première partie du formulaire, il faut remplir les informations relatives à la série en elle-même :
-![Premier onglet](https://i.imgur.com/ZPOtGJD.png)
+![Premier onglet](https://i.imgur.com/1FSHyo5.png)
 
 * **Nom original de la série** : Le nom de la série dans son pays d'origine ;
 * **Nom français de la série** : Le nom qu'on lui a donné en France (mention spéciale pour les titres ridicules) ;
-* **Résumé** : Un résumé de la série, attention aux spoilers ;
+* **Résumé original** : Un résumé en anglais ou dans la langue d'origine de la séries ;
+* **Résumé français** : Un résumé français de la série, attention aux spoiler ;
 * **Format** : La durée moyenne d'un épisode de la série ;
 * **Série en cours** : La série est-elle en cours ?
+* **Particularité** : La série a-t-elle une particularité ?
 * **Date de la diffusion originale** : Date de diffusion du premier épisode dans le pays d'origine de la série ;
 * **Date de la diffusion française** :  Date de diffusion du premier épisode en France ;
 * **Chaîne(s)** : Les différentes chaines qui diffusent la série (originale, ou française, ou même Thaïlandaise si ça vous chante) ;
@@ -57,7 +59,7 @@ A droite du bloc, vous devez apercevoir deux icônes, un vert et un rouge.
 
 Pour ajouter un épisode, appuyer sur le bouton "**Ajouter un épisode**" dans le bloc saison correspondant.
 Un autre bloc devrait apparaitre :
-![Bloc épisode](https://i.imgur.com/8UtEcQ7.png)
+![Bloc épisode](https://i.imgur.com/WTr3JAW.png)
 
 Comme pour le bloc saison, vous pouvez voir deux icones à la droite du bloc :
 * Un icône vert qui permet de déplacer un épisode, soit au sein de la saison, soit entre différentes saison. Son numéro est mis à jour en fonction de sa position, sauf si c'est un épisode spécial ; il reste alors à 0.
@@ -70,8 +72,7 @@ Il est possible de renseigner plusieurs informations pour un épisode :
 * **Résumé original** : Un résumé de l'épisode en anglais ou dans la lanque d'origine, soyons fous ;
 * **Résumé de l'épisode** : Un résumé français (quand même, hein) ;
 * **Date de la diffusion originale** : Date de diffusion de d'épisode dans le pays d'origine de la série;
-* **Date de la diffusion française** : Date de diffusion de l'épisode en France ;
-* **Particularité** : Est-ce que l'épisode a une particularité ? 
+* **Date de la diffusion française** : Date de diffusion de l'épisode en France ; 
 * **Bande annonce de l'épisode** : La bande annonce ;
 * **Réalisateur(s) de l'épisode** : Le ou les réalisateurs de l'épisode ;
 * **Scénariste(s) de la série** : Le ou les scénaristes de l'épisode ;

@@ -70,7 +70,7 @@ Page d&amp;rsquo;accueil Lorsque vous arrivez sur la page d&amp;rsquo;accueil, v
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_manually/</guid>
       <description>Tout d&amp;rsquo;abord, dans l&amp;rsquo;administation des séries, cliquez sur le bouton &amp;ldquo;Ajouter une nouvelle série&amp;rdquo; et choisissez &amp;ldquo;Création manuelle&amp;rdquo; : Vous arriverez sur le formulaire de création.
-Informations sur la série Dans la première partie du formulaire, il faut remplir les informations relatives à la série en elle-même :  Nom original de la série : Le nom de la série dans son pays d&amp;rsquo;origine ; Nom français de la série : Le nom qu&amp;rsquo;on lui a donné en France (mention spéciale pour les titres ridicules) ; Résumé : Un résumé de la série, attention aux spoilers ; Format : La durée moyenne d&amp;rsquo;un épisode de la série ; Série en cours : La série est-elle en cours ?</description>
+Informations sur la série Dans la première partie du formulaire, il faut remplir les informations relatives à la série en elle-même :  Nom original de la série : Le nom de la série dans son pays d&amp;rsquo;origine ; Nom français de la série : Le nom qu&amp;rsquo;on lui a donné en France (mention spéciale pour les titres ridicules) ; Résumé original : Un résumé en anglais ou dans la langue d&amp;rsquo;origine de la séries ; Résumé français : Un résumé français de la série, attention aux spoiler ; Format : La durée moyenne d&amp;rsquo;un épisode de la série ; Série en cours : La série est-elle en cours ?</description>
     </item>
     
     <item>
@@ -81,6 +81,15 @@ Informations sur la série Dans la première partie du formulaire, il faut rempl
       <guid>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_tvdb/</guid>
       <description>Tout d&amp;rsquo;abord, dans l&amp;rsquo;administation des séries, cliquez sur le bouton &amp;ldquo;Ajouter une nouvelle série&amp;rdquo; et choisissez &amp;ldquo;Création via the TVDB&amp;rdquo; : Vous arriverez sur le formulaire de création.
 Informations générales Dans la première partie du formulaire, il faut remplir les informations générales sur la série :  ID de la série sur TheTVDB : Cherchez la série sur TheTVDB et récupérez l&amp;rsquo;ID comme ici :  Nationalités : Dans cette case, vous pouvez ajouter plusieurs nationalités.</description>
+    </item>
+    
+    <item>
+      <title>Supprimer une série</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/series/delete_show/</link>
+      <pubDate>Wed, 19 Jul 2017 20:06:07 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/series/delete_show/</guid>
+      <description>Pour supprimer une série, rendez-vous sur la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration. Trouvez la série à supprimer et cliquez sur le bouton rouge tout à droite de la ligne : Une confirmation vous sera demandée : Un message apparait alors : Vous pouvez consulter les logs pour avoir plus d&amp;rsquo;informations sur votre suppression de série. Lien du tips pour les logs : ici.</description>
     </item>
     
     <item>
