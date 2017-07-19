@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://wiki.journeytotheit.ovh/find-bugs/quefaisje/",
+	"title": "Que fais-je ?",
+	"tags": [],
+	"description": "",
+	"content": "\u0026ldquo;J\u0026rsquo;ai un bug, qu\u0026rsquo;est-ce que je fais ?\u0026rdquo;\nAlors c\u0026rsquo;est simple, sur le sujet de la bêta en cours, tu répètes à Youk tout ce que tu as fait pour arriver au bug et à peu près l\u0026rsquo;heure à laquelle tu l\u0026rsquo;as fait. Lui il va se débrouiller pour retrouver ce que tu as fait et le corriger le plus rapidement possible.\nC\u0026rsquo;est tout.\n"
+},
+{
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/",
 	"title": "Acteurs",
 	"tags": [],
@@ -39,7 +46,7 @@
 	"title": "Remonter un bug",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "La remontée de bugs, comment ça marche ?\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/tips/logs/",
@@ -82,13 +89,6 @@
 	"tags": [],
 	"description": "",
 	"content": "La gestion des séries sur Série-All.\n"
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/find-bugs/quefaisje/",
-	"title": "Que fais-je ?",
-	"tags": [],
-	"description": "",
-	"content": "\u0026ldquo;J\u0026rsquo;ai un bug, qu\u0026rsquo;est-ce que je fais ?\u0026rdquo;\nAlors c\u0026rsquo;est simple, sur le sujet de la bêta en cours, tu répètes à Youk tout ce que tu as fait pour arriver au bug et à peu près l\u0026rsquo;heure à laquelle tu l\u0026rsquo;as fait. Lui il va se débrouiller pour retrouver ce que tu as fait et le corriger le plus rapidement possible.\nC\u0026rsquo;est tout.\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/_header/",

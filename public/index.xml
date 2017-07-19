@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Que fais-je ?</title>
+      <link>https://wiki.journeytotheit.ovh/find-bugs/quefaisje/</link>
+      <pubDate>Wed, 19 Jul 2017 00:42:02 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/find-bugs/quefaisje/</guid>
+      <description>&amp;ldquo;J&amp;rsquo;ai un bug, qu&amp;rsquo;est-ce que je fais ?&amp;rdquo;
+Alors c&amp;rsquo;est simple, sur le sujet de la bêta en cours, tu répètes à Youk tout ce que tu as fait pour arriver au bug et à peu près l&amp;rsquo;heure à laquelle tu l&amp;rsquo;as fait. Lui il va se débrouiller pour retrouver ce que tu as fait et le corriger le plus rapidement possible.
+C&amp;rsquo;est tout.</description>
+    </item>
+    
+    <item>
       <title>Nouvelle série manuelle</title>
       <link>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_manually/</link>
       <pubDate>Tue, 18 Jul 2017 17:14:23 +0200</pubDate>
@@ -52,17 +63,6 @@ Page d&amp;rsquo;accueil Lorsque vous arrivez sur la page d&amp;rsquo;accueil, v
       <guid>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_tvdb/</guid>
       <description>Tout d&amp;rsquo;abord, dans l&amp;rsquo;administation des séries, cliquez sur le bouton &amp;ldquo;Ajouter une nouvelle série&amp;rdquo; et choisissez &amp;ldquo;Création via the TVDB&amp;rdquo; : Vous arriverez sur le formulaire de création.
 Informations générales Dans la première partie du formulaire, il faut remplir les informations générales sur la série :  ID de la série sur TheTVDB : Cherchez la série sur TheTVDB et récupérez l&amp;rsquo;ID comme ici :  Nationalités : Dans cette case, vous pouvez ajouter plusieurs nationalités.</description>
-    </item>
-    
-    <item>
-      <title>Que fais-je ?</title>
-      <link>https://wiki.journeytotheit.ovh/find-bugs/quefaisje/</link>
-      <pubDate>Wed, 19 Jul 2017 00:42:02 +0200</pubDate>
-      
-      <guid>https://wiki.journeytotheit.ovh/find-bugs/quefaisje/</guid>
-      <description>&amp;ldquo;J&amp;rsquo;ai un bug, qu&amp;rsquo;est-ce que je fais ?&amp;rdquo;
-Alors c&amp;rsquo;est simple, sur le sujet de la bêta en cours, tu répètes à Youk tout ce que tu as fait pour arriver au bug et à peu près l&amp;rsquo;heure à laquelle tu l&amp;rsquo;as fait. Lui il va se débrouiller pour retrouver ce que tu as fait et le corriger le plus rapidement possible.
-C&amp;rsquo;est tout.</description>
     </item>
     
     <item>
