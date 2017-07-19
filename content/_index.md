@@ -7,3 +7,5 @@ weight: 3
 
 # WIKI
 __Bienvenue sur le wiki de Série-All__
+
+![Hello](https://media.giphy.com/media/cE02lboc8JPO/giphy.gif)
