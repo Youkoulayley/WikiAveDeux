@@ -17,7 +17,8 @@
       <pubDate>Tue, 18 Jul 2017 17:14:23 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/series/new_show_manually/</guid>
-      <description>Test</description>
+      <description>Tout d&amp;rsquo;abord, dans l&amp;rsquo;administation des séries, cliquez sur le bouton &amp;ldquo;Ajouter une nouvelle série&amp;rdquo; et choisissez &amp;ldquo;Création manuelle&amp;rdquo; : Vous arriverez sur le formulaire de création.
+Informations sur la série Dans la première partie du formulaire, il faut remplir les informations relatives à la série en elle-même :  Nom original de la série : Le nom de la série dans son pays d&amp;rsquo;origine ; Nom français de la série : Le nom qu&amp;rsquo;on lui a donné en France (mention spéciale pour les titres ridicules) ; Résumé : Un résumé de la série, attention aux spoilers ; Format : La durée moyenne d&amp;rsquo;un épisode de la série ; Série en cours : La série est-elle en cours ?</description>
     </item>
     
     <item>
@@ -55,10 +56,10 @@ Informations générales Dans la première partie du formulaire, il faut remplir
     
     <item>
       <title>Que fais-je ?</title>
-      <link>https://wiki.journeytotheit.ovh/bug/quefaisje/</link>
+      <link>https://wiki.journeytotheit.ovh/find-bugs/quefaisje/</link>
       <pubDate>Wed, 19 Jul 2017 00:42:02 +0200</pubDate>
       
-      <guid>https://wiki.journeytotheit.ovh/bug/quefaisje/</guid>
+      <guid>https://wiki.journeytotheit.ovh/find-bugs/quefaisje/</guid>
       <description>&amp;ldquo;J&amp;rsquo;ai un bug, qu&amp;rsquo;est-ce que je fais ?&amp;rdquo;
 Alors c&amp;rsquo;est simple, sur le sujet de la bêta en cours, tu répètes à Youk tout ce que tu as fait pour arriver au bug et à peu près l&amp;rsquo;heure à laquelle tu l&amp;rsquo;as fait. Lui il va se débrouiller pour retrouver ce que tu as fait et le corriger le plus rapidement possible.
 C&amp;rsquo;est tout.</description>
