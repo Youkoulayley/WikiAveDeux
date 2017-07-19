@@ -11,7 +11,7 @@ Pour mettre à jour une série, rendez-vous dans la page d'accueil de gestion de
 ![Click nom](https://i.imgur.com/g7jpUOJ.png)
 
 Vous arriverez sur le formulaire d'édition :
-![Formulaire](https://i.imgur.com/PGSEmew.png)
+![Formulaire](https://i.imgur.com/l3Fg7Xf.png)
 
 Les deux boutons du haut permettent de passer respectivement sur la gestion des acteurs de la série et sur la gestion des saisons/épisodes. Voir les sujets appropriés pour leur utilisation.
 
