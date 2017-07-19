@@ -41,6 +41,8 @@ Un bloc devrait alors apparaître, vous permettant de renseigner les différente
 * **Nom de l'acteur** : Le nom de l'acteur (j'ai l'impression d'être Freem en écrivant ce wiki). Pour ajouter un acteur non présent dans la liste, lisez [ceci](/tips/dropdown) ; 
 * **Rôle de l'acteur** : Son rôle dans la série.
 
+Vous pouvez ajouter autant de blocs acteurs que vous le voulez (bon en vrai j'ai mis une limite, faut pas déconner). Je vous fais juste croire que vous pouvez faire ce que vous voulez.
+
 _"Pourquoi il n'y a pas la gestion des images d'acteurs, comme pour l'ajout à part d'acteurs et leurs éditions ?"_
 Parce que je n'ai pas encore réussi à le faire avec un formulaire aussi complet, cela viendra peut être plus tard.
 
@@ -77,6 +79,8 @@ Il est possible de renseigner plusieurs informations pour un épisode :
 * **Réalisateur(s) de l'épisode** : Le ou les réalisateurs de l'épisode ;
 * **Scénariste(s) de la série** : Le ou les scénaristes de l'épisode ;
 * **Guest(s) de la série** : Genre Ed Sheeran. 
+
+Vous pouvez créer autant de blocs saisons et épisodes que vous voulez.
 
 ## Informations sur la rentrée
 Page spéciale Ninja.

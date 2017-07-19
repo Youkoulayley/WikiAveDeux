@@ -17,4 +17,6 @@ Un message apparait alors :
 
 Vous pouvez consulter les logs pour avoir plus d'informations sur votre suppression de série. Lien du tips pour les logs : [ici](/tips/logs).
 
+Et après un temps d'attente, votre série est supprimée ! :)
+
 ![Exterminate](https://media.giphy.com/media/fvE90phZJYFCo/giphy.gif)

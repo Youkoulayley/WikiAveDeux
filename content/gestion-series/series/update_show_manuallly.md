@@ -39,6 +39,6 @@ En validant, vous aurez un message de ce type :
 
 Vous pouvez consulter les logs pour avoir plus d'informations sur votre ajout de série. Lien du tips pour les logs : [ici](/tips/logs).
 
-Et après un temps d'attente, votre série est ajoutée ! :)
+Et après un temps d'attente, votre série est mise à jour ! :)
 
 ![That's all](https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif)
