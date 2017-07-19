@@ -1,35 +1,7 @@
 [
 {
-	"uri": "https://wiki.journeytotheit.ovh/gestion-series/episodes/update/",
-	"title": "Mettre à jour un épisode",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/",
-	"title": "Supprimer un épisode",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/episodes/create/",
 	"title": "Ajouter de nouveaux épisodes",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/",
-	"title": "Supprimer une saison",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/update/",
-	"title": "Mettre à jour une saison",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -84,6 +56,20 @@
 	"content": "Gestion des séries, saisons, épisodes et acteurs/actrices.\n"
 },
 {
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/episodes/update/",
+	"title": "Mettre à jour un épisode",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/update/",
+	"title": "Mettre à jour une saison",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/update/",
 	"title": "Mettre à jour un acteur",
 	"tags": [],
@@ -117,6 +103,20 @@
 	"tags": [],
 	"description": "",
 	"content": " \u0026ldquo;Mais qu\u0026rsquo;est-ce qu\u0026rsquo;un log ?\u0026rdquo;\nUn log est un fichier qui regroupe les différentes actions effectuées par une action. Par exemple, lorsque vous créez une série ou modifiez un acteur, un fichier de log est créé.\nIl y a deux façons d\u0026rsquo;accéder aux logs de Série-All : * Sur la page d\u0026rsquo;accueil de l\u0026rsquo;administration ; * Dans l\u0026rsquo;onglet \u0026ldquo;Système\u0026rdquo; de l\u0026rsquo;administration.\nPage d\u0026rsquo;accueil Lorsque vous arrivez sur la page d\u0026rsquo;accueil, vous pouvez voir cet écran : Il n\u0026rsquo;est pas pour l\u0026rsquo;instant pas très complet, mais le deviendra au fur et à mesure des évolutions. Vous pouvez donc voir ici la liste des 10 derniers fichiers de logs présent. Si le votre est plus ancien que ceux-là, il faut aller dans l\u0026rsquo;onglet \u0026ldquo;Système\u0026rdquo;.\nVous avez ici accès à plusieurs informations d\u0026rsquo;un simple coup d\u0026rsquo;oeil : * Le nom de l\u0026rsquo;action effectuée ; * Le type d\u0026rsquo;objet modifié ; * L\u0026rsquo;ID de l\u0026rsquo;objet (utile surtout pour les administrateurs) ; * L\u0026rsquo;utilisateur qui a lancé l\u0026rsquo;action ; * La date de départ.\nEn cliquant sur le nom de l\u0026rsquo;action, vous aurez accès au détail : Onglet Système En cliquant sur l\u0026rsquo;onglet Système, vous arriverez sur cette page : La seule option disponible pour l\u0026rsquo;instant est le système de logs. En cliquant sur le carré, vous accéderez à tous les logs des 7 derniers jours. Les suivants seront supprimés automatiquement. "
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/",
+	"title": "Supprimer un épisode",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/",
+	"title": "Supprimer une saison",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/delete/",

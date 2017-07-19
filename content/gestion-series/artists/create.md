@@ -35,4 +35,4 @@ Vous pouvez consulter les logs pour avoir plus d'informations sur votre ajout d'
 
 Et après un temps d'attente, vos acteurs sont ajoutés ! :)
 
-![Allright](https://media.giphy.com/media/lgRNj0m1oORfW/giphy.gif)
+![Allright](https://media.giphy.com/media/3og0IJzExXCO2N4Chq/giphy.gif)

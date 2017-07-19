@@ -12,47 +12,11 @@
     
     
     <item>
-      <title>Mettre à jour un épisode</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</link>
-      <pubDate>Thu, 20 Jul 2017 00:07:33 +0200</pubDate>
-      
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supprimer un épisode</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</link>
-      <pubDate>Thu, 20 Jul 2017 00:07:22 +0200</pubDate>
-      
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ajouter de nouveaux épisodes</title>
       <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/create/</link>
       <pubDate>Thu, 20 Jul 2017 00:07:17 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/create/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supprimer une saison</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</link>
-      <pubDate>Thu, 20 Jul 2017 00:06:23 +0200</pubDate>
-      
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mettre à jour une saison</title>
-      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</link>
-      <pubDate>Thu, 20 Jul 2017 00:06:19 +0200</pubDate>
-      
-      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</guid>
       <description></description>
     </item>
     
@@ -108,6 +72,24 @@ Vous avez plusieurs options qui s&amp;rsquo;offrent à vous : * Soit l&amp;rsquo
     </item>
     
     <item>
+      <title>Mettre à jour un épisode</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</link>
+      <pubDate>Thu, 20 Jul 2017 00:07:33 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mettre à jour une saison</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</link>
+      <pubDate>Thu, 20 Jul 2017 00:06:19 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mettre à jour un acteur</title>
       <link>https://wiki.journeytotheit.ovh/gestion-series/artists/update/</link>
       <pubDate>Wed, 19 Jul 2017 23:40:59 +0200</pubDate>
@@ -137,6 +119,24 @@ Vous pouvez suivre les logs (Tips ici) de la mise à jour via TheTVDB dans l&amp
 Un log est un fichier qui regroupe les différentes actions effectuées par une action. Par exemple, lorsque vous créez une série ou modifiez un acteur, un fichier de log est créé.
 Il y a deux façons d&amp;rsquo;accéder aux logs de Série-All : * Sur la page d&amp;rsquo;accueil de l&amp;rsquo;administration ; * Dans l&amp;rsquo;onglet &amp;ldquo;Système&amp;rdquo; de l&amp;rsquo;administration.
 Page d&amp;rsquo;accueil Lorsque vous arrivez sur la page d&amp;rsquo;accueil, vous pouvez voir cet écran : Il n&amp;rsquo;est pas pour l&amp;rsquo;instant pas très complet, mais le deviendra au fur et à mesure des évolutions.</description>
+    </item>
+    
+    <item>
+      <title>Supprimer un épisode</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</link>
+      <pubDate>Thu, 20 Jul 2017 00:07:22 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/episodes/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supprimer une saison</title>
+      <link>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</link>
+      <pubDate>Thu, 20 Jul 2017 00:06:23 +0200</pubDate>
+      
+      <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</guid>
+      <description></description>
     </item>
     
     <item>
