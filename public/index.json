@@ -11,7 +11,7 @@
 	"title": "Ajouter de nouvelles saisons",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Pour créer une nouvelle saison à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les saisons et les épisodes\u0026rdquo; : Vous arriverez sur une page de ce genre : Cliquez sur \u0026ldquo;Ajouter de nouvelles saisons\u0026rdquo; : En cliquant sur le bouton \u0026ldquo;Ajouter une saison\u0026rdquo;, un bloc de ce genre devrait apparaitre :  Numéro de la saison : Indiquez le numéro de la saison ; Bande annonce : La bande annonce de la saison.  Vous pouvez ajouter autant de blocs saisons que vous le voulez.\nUne fois vos saisons ajoutées, vous pouvez cliquer sur : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre ajout de saisons. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, vos saisons sont ajoutées ! :)\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/create/",
@@ -67,14 +67,14 @@
 	"title": "Mettre à jour une saison",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Pour mettre à jour une saison à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les saisons et les épisodes\u0026rdquo; : Pour modifier une saison, cliquez sur son nom : Vous arriverez sur le formulaire d\u0026rsquo;édition de la saison : Vous pouvez alors modifier :\n Numéro de la saison : Indiquez le numéro de la saison ; Bande annonce : La bande annonce de la saison.  Une fois toutes vos modifications effectuées : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre modification de saison. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre saison est modifiée ! :)\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/update/",
 	"title": "Mettre à jour un acteur",
 	"tags": [],
 	"description": "",
-	"content": "Pour mettre à jour un acteur d\u0026rsquo;une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration. Cliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur \u0026ldquo;Editer\u0026rdquo; : Vous arriverez sur le formulaire d\u0026rsquo;édition de l\u0026rsquo;acteur : Vous pouvez alors :\n Photo de l\u0026rsquo;acteur : Uploader une nouvelle photo pour l\u0026rsquo;acteur ; Rôle : Modifier le rôle de l\u0026rsquo;acteur pour cette série.  \u0026ldquo;Pourquoi je peux pas modifier le nom de l\u0026rsquo;acteur ?\u0026rdquo; Parce que si tu veux changer d\u0026rsquo;acteur, ou que tu t\u0026rsquo;es trompé, tu supprimes cette acteur (il ne sera supprimé que pour cette série, don\u0026rsquo;t worry) et tu en crée un autre.\nUne fois toutes vos modifications effectuées : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre modification d\u0026rsquo;acteur. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre acteur est modifié ! :)\n"
+	"content": "Pour mettre à jour un acteur d\u0026rsquo;une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration. Cliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur \u0026ldquo;Editer\u0026rdquo; : Vous arriverez sur le formulaire d\u0026rsquo;édition de l\u0026rsquo;acteur : Vous pouvez alors modifier :\n Photo de l\u0026rsquo;acteur : Uploader une nouvelle photo pour l\u0026rsquo;acteur ; Rôle : Modifier le rôle de l\u0026rsquo;acteur pour cette série.  \u0026ldquo;Pourquoi je peux pas modifier le nom de l\u0026rsquo;acteur ?\u0026rdquo; Parce que si tu veux changer d\u0026rsquo;acteur, ou que tu t\u0026rsquo;es trompé, tu supprimes cette acteur (il ne sera supprimé que pour cette série, don\u0026rsquo;t worry) et tu en crée un autre.\nUne fois toutes vos modifications effectuées : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre modification d\u0026rsquo;acteur. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre acteur est modifié ! :)\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/series/update_show_tvdb/",
@@ -116,14 +116,14 @@
 	"title": "Supprimer une saison",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "Pour supprimer une saison à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les saisons et les épisodes\u0026rdquo; : Pour supprimer une saison, cliquez sur le bouton rouge sur la même ligne que la saison que vous voulez supprimer : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre suppression de saison. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre saison est supprimée ! :)\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/artists/delete/",
 	"title": "Supprimer un acteur",
 	"tags": [],
 	"description": "",
-	"content": "Pour supprimer un acteur à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Pour supprimer un acteur, survolez sa photo et cliquez sur \u0026ldquo;Supprimer\u0026rdquo; : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre suppression d\u0026rsquo;acteur. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, vos acteurs sont supprimés ! :)\n"
+	"content": "Pour supprimer un acteur à une série déjà existante, il faut se rendre dans le formulaire d\u0026rsquo;édition de la série, en cliquant sur son nom dans la page d\u0026rsquo;accueil des séries dans l\u0026rsquo;administration.\nCliquez sur \u0026ldquo;Modifier les acteurs de la série\u0026rdquo; : Pour supprimer un acteur, survolez sa photo et cliquez sur \u0026ldquo;Supprimer\u0026rdquo; : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d\u0026rsquo;informations sur votre suppression d\u0026rsquo;acteur. Lien du tips pour les logs : ici.\nEt après un temps d\u0026rsquo;attente, votre acteur est supprimé ! :)\n"
 },
 {
 	"uri": "https://wiki.journeytotheit.ovh/gestion-series/seasons/",

@@ -15,7 +15,7 @@ Pour modifier un acteur, survolez sa photo et cliquez sur **"Editer"** :
 Vous arriverez sur le formulaire d'édition de l'acteur :
 ![Formulaire](https://i.imgur.com/edkhMFs.png)
 
-Vous pouvez alors :
+Vous pouvez alors modifier :
 
 * **Photo de l'acteur** : Uploader une nouvelle photo pour l'acteur ;
 * **Rôle** : Modifier le rôle de l'acteur pour cette série.

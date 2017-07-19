@@ -21,6 +21,6 @@ En validant, vous aurez un message de ce type :
 
 Vous pouvez consulter les logs pour avoir plus d'informations sur votre suppression d'acteur. Lien du tips pour les logs : [ici](/tips/logs).
 
-Et après un temps d'attente, vos acteurs sont supprimés ! :)
+Et après un temps d'attente, votre acteur est supprimé ! :)
 
 ![Allright](https://media.giphy.com/media/LjUOTsO6EaUWA/giphy.gif)

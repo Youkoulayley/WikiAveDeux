@@ -26,7 +26,8 @@
       <pubDate>Thu, 20 Jul 2017 00:06:16 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/create/</guid>
-      <description></description>
+      <description>Pour créer une nouvelle saison à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
+Cliquez sur &amp;ldquo;Modifier les saisons et les épisodes&amp;rdquo; : Vous arriverez sur une page de ce genre : Cliquez sur &amp;ldquo;Ajouter de nouvelles saisons&amp;rdquo; : En cliquant sur le bouton &amp;ldquo;Ajouter une saison&amp;rdquo;, un bloc de ce genre devrait apparaitre :  Numéro de la saison : Indiquez le numéro de la saison ; Bande annonce : La bande annonce de la saison.</description>
     </item>
     
     <item>
@@ -86,7 +87,9 @@ Vous avez plusieurs options qui s&amp;rsquo;offrent à vous : * Soit l&amp;rsquo
       <pubDate>Thu, 20 Jul 2017 00:06:19 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/update/</guid>
-      <description></description>
+      <description>Pour mettre à jour une saison à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
+Cliquez sur &amp;ldquo;Modifier les saisons et les épisodes&amp;rdquo; : Pour modifier une saison, cliquez sur son nom : Vous arriverez sur le formulaire d&amp;rsquo;édition de la saison : Vous pouvez alors modifier :
+ Numéro de la saison : Indiquez le numéro de la saison ; Bande annonce : La bande annonce de la saison.</description>
     </item>
     
     <item>
@@ -95,7 +98,7 @@ Vous avez plusieurs options qui s&amp;rsquo;offrent à vous : * Soit l&amp;rsquo
       <pubDate>Wed, 19 Jul 2017 23:40:59 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/artists/update/</guid>
-      <description>Pour mettre à jour un acteur d&amp;rsquo;une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration. Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur &amp;ldquo;Editer&amp;rdquo; : Vous arriverez sur le formulaire d&amp;rsquo;édition de l&amp;rsquo;acteur : Vous pouvez alors :
+      <description>Pour mettre à jour un acteur d&amp;rsquo;une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration. Cliquez sur &amp;ldquo;Modifier les acteurs de la série&amp;rdquo; : Pour modifier un acteur, survolez sa photo et cliquez sur &amp;ldquo;Editer&amp;rdquo; : Vous arriverez sur le formulaire d&amp;rsquo;édition de l&amp;rsquo;acteur : Vous pouvez alors modifier :
  Photo de l&amp;rsquo;acteur : Uploader une nouvelle photo pour l&amp;rsquo;acteur ; Rôle : Modifier le rôle de l&amp;rsquo;acteur pour cette série.</description>
     </item>
     
@@ -136,7 +139,8 @@ Page d&amp;rsquo;accueil Lorsque vous arrivez sur la page d&amp;rsquo;accueil, v
       <pubDate>Thu, 20 Jul 2017 00:06:23 +0200</pubDate>
       
       <guid>https://wiki.journeytotheit.ovh/gestion-series/seasons/delete/</guid>
-      <description></description>
+      <description>Pour supprimer une saison à une série déjà existante, il faut se rendre dans le formulaire d&amp;rsquo;édition de la série, en cliquant sur son nom dans la page d&amp;rsquo;accueil des séries dans l&amp;rsquo;administration.
+Cliquez sur &amp;ldquo;Modifier les saisons et les épisodes&amp;rdquo; : Pour supprimer une saison, cliquez sur le bouton rouge sur la même ligne que la saison que vous voulez supprimer : Confirmez : En validant, vous aurez un message de ce type : Vous pouvez consulter les logs pour avoir plus d&amp;rsquo;informations sur votre suppression de saison.</description>
     </item>
     
     <item>
