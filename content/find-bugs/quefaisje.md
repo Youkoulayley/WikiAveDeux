@@ -2,6 +2,7 @@
 title: "Que fais-je ?"
 date: 2017-07-19T00:42:02+02:00
 draft: false
+weight: 1
 ---
 
 *"J'ai un bug, qu'est-ce que je fais ?"*
