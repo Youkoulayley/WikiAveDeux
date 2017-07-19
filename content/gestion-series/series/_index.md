@@ -5,5 +5,5 @@ draft: false
 weight: 4
 ---
 
-La gestion des séries sur Série-All.
+La gestion des séries.
 

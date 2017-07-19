@@ -2,7 +2,7 @@
 title: "Nouvelle série via TheTVDB"
 date: 2017-07-18T15:27:43+02:00
 draft: false
-weight: 2
+weight: 4
 ---
 
 Tout d'abord, dans l'administation des séries, cliquez sur le bouton _"Ajouter une nouvelle série"_ et choisissez _"Création via the TVDB"_ :

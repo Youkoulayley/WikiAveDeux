@@ -2,7 +2,7 @@
 title: "Nouvelle série manuelle"
 date: 2017-07-18T17:14:23+02:00
 draft: false
-weight: 1
+weight: 3
 ---
 
 Tout d'abord, dans l'administation des séries, cliquez sur le bouton _"Ajouter une nouvelle série"_ et choisissez _"Création manuelle"_ :
