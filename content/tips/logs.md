@@ -22,6 +22,7 @@ Il n'est pas pour l'instant pas très complet, mais le deviendra au fur et à me
 Vous pouvez donc voir ici la liste des 10 derniers fichiers de logs présent. Si le votre est plus ancien que ceux-là, il faut aller dans l'onglet "**Système**".
 
 Vous avez ici accès à plusieurs informations d'un simple coup d'oeil :
+
 * Le nom de l'action effectuée ;
 * Le type d'objet modifié ;
 * L'ID de l'objet (utile surtout pour les administrateurs) ;
