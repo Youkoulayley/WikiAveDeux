@@ -6,6 +6,7 @@ weight: 1
 ---
 
 Le champ liste peut avoir plusieurs formes sur Série-All : 
+
 * On ne peut choisir qu'un seul enregistrement ;
 * On peut choisir plusieurs enregistrements.
 
@@ -13,11 +14,13 @@ Le champ liste peut avoir plusieurs formes sur Série-All :
 Ce cas est présent lors de la création d'un nouvel acteur par exemple.
 
 Vous avez plusieurs options qui s'offrent à vous : 
+
 * Soit l'enregistrement est déjà présent dans la base de données et vous n'avez qu'à le trouver dans la liste ;
 * Soit l'enreigstrement n'existe pas dans la base de données et il faut alors le créer.
 
 ### L'enregistrement existe
 Deux options s'offrent à vous :
+
 * Soit vous cliquez sur la flèche à droite du champ :
 ![Flèche](https://i.imgur.com/yT1wrgE.png)
 La liste complète de tous les enregistrements de cette catégorie sur Série-All va alors se dérouler. Autant dire que pour la Bêta, ça devrait aller, mais plus tard ça va vite devenir ingérable. Préférez donc la deuxième option.
