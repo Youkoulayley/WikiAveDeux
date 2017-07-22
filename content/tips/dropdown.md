@@ -34,6 +34,7 @@ Si l'enregistrement n'existe pas, tapez alors simplement son nom. Lors de la val
 Ce cas est beaucoup plus présent sur la nouvelle version de Série-All, comme avec les nationalités, les chaînes etc.
 
 Vous avez plusieurs options qui s'offrent à vous : 
+
 * Soit l'enregistrement est déjà présent dans la base de données et vous n'avez qu'à le trouver dans la liste ;
 * Soit l'enregistrement n'existe pas dans la base de données et il faut alors le créer.
 

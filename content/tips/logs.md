@@ -10,6 +10,7 @@ _"Mais qu'est-ce qu'un log ?"_
 Un log est un fichier qui regroupe les différentes actions effectuées par une action. Par exemple, lorsque vous créez une série ou modifiez un acteur, un fichier de log est créé.
 
 Il y a deux façons d'accéder aux logs de Série-All :
+
 * Sur la page d'accueil de l'administration ;
 * Dans l'onglet "**Système**" de l'administration.
 
