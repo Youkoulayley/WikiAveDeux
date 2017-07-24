@@ -56,6 +56,7 @@ En cliquant sur le nom, le bloc devrait se déplier.
 
 La seule information à remplir pour une saison est sa bande annonce.
 A droite du bloc, vous devez apercevoir deux icônes, un vert et un rouge.
+
 * L'icône vert permet de déplacer la saison lorsqu'il y en a plusieurs. Lorsque l'on déplace une saison, elle est rennomée automatiquement en fonction de son emplacement.
 * L'icône rouge supprime tout le bloc ainsi que les épisodes liés.
 
@@ -89,6 +90,7 @@ Le quatrième onglet est réservé à la partie Rentrée :
 ![Quatrième onglet](https://i.imgur.com/f0T3gid.png)
 
 Deux champs à remplir : 
+
 * **Taux érectile** : Pour savoir si on regarde ;
 * **Avis de la rédaction** : Parce que c'"est bien d'avoir un avis.
 
