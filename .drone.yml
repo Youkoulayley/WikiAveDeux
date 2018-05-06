@@ -9,4 +9,6 @@ pipeline:
     username: ${DRONE_USERNAME}
     password: ${DRONE_PASSWORD}
     repo: youkoulayley/wiki-serieall
-    tags: [ latest, ${DRONE_BRANCH/\//-} ]
+    tags:
+      - latest
+      - ${DRONE_BRANCH/\//-}
