@@ -6,9 +6,7 @@ pipeline:
 
   publish:
     image: plugins/docker
-    username: ${DRONE_USERNAME}
-    password: ${DRONE_PASSWORD}
-    registry: hub.docker.com
+    secrets: [ docker_username, docker_password ]
     repo: youkoulayley/wiki-serieall
     tags:
       - latest
