@@ -1,6 +1,6 @@
 pipeline:
   build:
-    image: giantswarm/hugo
+    image: jguyomard/hugo-builder
     commands:
       - hugo
 
