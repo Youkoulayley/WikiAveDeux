@@ -8,7 +8,7 @@ pipeline:
     image: plugins/docker
     secrets: [ docker_username, docker_password ]
     registry: registry.gitlab.com
-    repo: registry.gitlab.com/youkoulayley/wiki-serieall
+    repo: registry.gitlab.com/youkoulayley/wikiavedeux
     tags:
       - latest
       - ${DRONE_BRANCH/\//-}
